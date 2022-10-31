@@ -1,4 +1,7 @@
-### Hi there 👋
+
+i like dogs
+i program lua,nodejs,python,and more
+ok bye
 
 <!--
 **DogeeDev/DogeeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
