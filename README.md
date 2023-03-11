@@ -1,7 +1,7 @@
 
 i like dogs
 
-i program lua,nodejs,python,and more
+i program lua,nodejs,python,javascript, and more.
 
 ok bye
 
